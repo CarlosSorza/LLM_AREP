@@ -3,6 +3,8 @@
 
 ### Explicación de Arquitectura
 
+![Diagrama drawio](https://github.com/user-attachments/assets/70809e0d-7f0b-462e-9351-bc1d28db2d68)
+
 1. Interfaz de Usuario (Frontend)
 Descripción: Es la parte donde el usuario interactúa con la aplicación. Puede ser una interfaz web o una API.
 Tecnologías: React, Vue, Angular (para frontend web), o cualquier cliente HTTP (si es solo una API REST).
